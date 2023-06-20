@@ -13,10 +13,3 @@ module.exports = ({ env }) => ({
     },
   },
 });
-
-// DATABASE-HOST=primary.postgres--2hzqdm6jwcpn.addon.code.run
-//  DATABASE-PORT=5432
-// ; DATABASE_SLL=true
-// ; DATABASE_NAME=_73f05189477f
-// ; DATABASE_USERNAME=_ccf6fc489638c235
-// ; DATABASE_PASSWORD=_8b555cefe14ce8bb159749bc2d5f4d
