@@ -18,7 +18,7 @@ module.exports = ({ env }) => ({
       config: {
         jwt: {
           expiresIn: '7d',
-          jwtSecret: env('JWT_SECRET'),
+          jwtSecret: env('JWT_SECRET', 'ljdc2HrhwKa0XdO+1VrdBg=='),
         },
       },
     },
